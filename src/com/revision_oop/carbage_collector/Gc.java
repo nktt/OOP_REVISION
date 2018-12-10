@@ -1,5 +1,8 @@
 package com.revision_oop.carbage_collector;
 
+/**
+ *
+ */
 public class Gc {
 
 

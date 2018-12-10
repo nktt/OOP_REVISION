@@ -10,6 +10,11 @@ public class Data_structure {
 
     }
 
+    /**
+     *
+     * @param arr
+     * @param k
+     */
     static  void flip (int[] arr, int  k){
 
         int temp =0;
